@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prueba-Ahorcado", "Prueba-Ahorcado\Prueba-Ahorcado.csproj", "{2D609212-9AF4-407F-97F9-3C1A1D4031C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dominio", "dominio\dominio.csproj", "{D2FC17B1-4AF9-49AA-A772-C8EB2E53B2B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "negocio", "negocio\negocio.csproj", "{BA69F9E5-B4AE-4F04-B7AE-B7BC374B8B03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D609212-9AF4-407F-97F9-3C1A1D4031C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D609212-9AF4-407F-97F9-3C1A1D4031C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D609212-9AF4-407F-97F9-3C1A1D4031C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D609212-9AF4-407F-97F9-3C1A1D4031C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2FC17B1-4AF9-49AA-A772-C8EB2E53B2B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2FC17B1-4AF9-49AA-A772-C8EB2E53B2B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2FC17B1-4AF9-49AA-A772-C8EB2E53B2B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2FC17B1-4AF9-49AA-A772-C8EB2E53B2B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA69F9E5-B4AE-4F04-B7AE-B7BC374B8B03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA69F9E5-B4AE-4F04-B7AE-B7BC374B8B03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA69F9E5-B4AE-4F04-B7AE-B7BC374B8B03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA69F9E5-B4AE-4F04-B7AE-B7BC374B8B03}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E298A09-98E9-497D-A4EC-65EB58C5D672}
+	EndGlobalSection
+EndGlobal

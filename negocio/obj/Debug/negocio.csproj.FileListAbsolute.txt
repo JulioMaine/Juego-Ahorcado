@@ -1,0 +1,9 @@
+C:\Users\Usuario\source\repos\Web-Ahorcado\negocio\bin\Debug\negocio.dll
+C:\Users\Usuario\source\repos\Web-Ahorcado\negocio\bin\Debug\negocio.pdb
+C:\Users\Usuario\source\repos\Web-Ahorcado\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Web-Ahorcado\negocio\obj\Debug\negocio.dll
+C:\Users\Usuario\source\repos\Web-Ahorcado\negocio\obj\Debug\negocio.pdb
+C:\Users\Usuario\source\repos\Web-Ahorcado\negocio\bin\Debug\dominio.dll
+C:\Users\Usuario\source\repos\Web-Ahorcado\negocio\bin\Debug\dominio.pdb
+C:\Users\Usuario\source\repos\Web-Ahorcado\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Web-Ahorcado\negocio\obj\Debug\negocio.csproj.CopyComplete
