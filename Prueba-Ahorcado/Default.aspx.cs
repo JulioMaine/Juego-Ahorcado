@@ -38,7 +38,7 @@ namespace Prueba_Ahorcado
         protected void btn_Click(object sender, EventArgs e)
         {
             // Una función que lea cada caracter de la palabra y que si coincide que el texto del boton te tire true, y que se forme de nuevo la palabra en Load
-            // con los guiones pero con las letras (La solución aca esta en el video de coding con C)
+            // con los guiones pero con las letras
             Button Btn_clic = (Button)sender;
             char letra = char.Parse(Btn_clic.Text);
             bool prueba = Helper.ExisteLaLetra(letra, (String)Session["PalabraActual"]);
