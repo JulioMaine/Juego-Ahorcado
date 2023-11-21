@@ -4,3 +4,9 @@ C:\Users\Usuario\source\repos\Web-Ahorcado\dominio\obj\Debug\dominio.csproj.Asse
 C:\Users\Usuario\source\repos\Web-Ahorcado\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
 C:\Users\Usuario\source\repos\Web-Ahorcado\dominio\obj\Debug\dominio.dll
 C:\Users\Usuario\source\repos\Web-Ahorcado\dominio\obj\Debug\dominio.pdb
+D:\MIS COSAS\Escritorio\Juego-Ahorcado\dominio\bin\Debug\dominio.dll
+D:\MIS COSAS\Escritorio\Juego-Ahorcado\dominio\bin\Debug\dominio.pdb
+D:\MIS COSAS\Escritorio\Juego-Ahorcado\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+D:\MIS COSAS\Escritorio\Juego-Ahorcado\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+D:\MIS COSAS\Escritorio\Juego-Ahorcado\dominio\obj\Debug\dominio.dll
+D:\MIS COSAS\Escritorio\Juego-Ahorcado\dominio\obj\Debug\dominio.pdb
