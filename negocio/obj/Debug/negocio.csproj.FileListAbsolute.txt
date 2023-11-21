@@ -7,3 +7,12 @@ C:\Users\Usuario\source\repos\Web-Ahorcado\negocio\bin\Debug\dominio.dll
 C:\Users\Usuario\source\repos\Web-Ahorcado\negocio\bin\Debug\dominio.pdb
 C:\Users\Usuario\source\repos\Web-Ahorcado\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
 C:\Users\Usuario\source\repos\Web-Ahorcado\negocio\obj\Debug\negocio.csproj.CopyComplete
+D:\MIS COSAS\Escritorio\Juego-Ahorcado\negocio\bin\Debug\negocio.dll
+D:\MIS COSAS\Escritorio\Juego-Ahorcado\negocio\bin\Debug\negocio.pdb
+D:\MIS COSAS\Escritorio\Juego-Ahorcado\negocio\bin\Debug\dominio.dll
+D:\MIS COSAS\Escritorio\Juego-Ahorcado\negocio\bin\Debug\dominio.pdb
+D:\MIS COSAS\Escritorio\Juego-Ahorcado\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+D:\MIS COSAS\Escritorio\Juego-Ahorcado\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+D:\MIS COSAS\Escritorio\Juego-Ahorcado\negocio\obj\Debug\negocio.csproj.CopyComplete
+D:\MIS COSAS\Escritorio\Juego-Ahorcado\negocio\obj\Debug\negocio.dll
+D:\MIS COSAS\Escritorio\Juego-Ahorcado\negocio\obj\Debug\negocio.pdb
